@@ -1,5 +1,10 @@
 /* 상단 */
 .header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 9999;
   background: #000;
 }
 .header .inner {
